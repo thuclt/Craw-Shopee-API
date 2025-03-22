@@ -1,0 +1,14 @@
+chạy lệnh
+pip install DrissionPage
+
+
+mở chrome và mở link : chrome://version
+copy đường dẫn cấu hình : C:\Users\ADMIN\AppData\Local\Google\Chrome\User Data\
+thay vào user_data_path  file setup.py và app.py
+
+
+sau đó chạy file setup để login app 
+
+
+sau đó chạy file app.py
+
